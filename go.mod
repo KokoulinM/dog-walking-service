@@ -1,4 +1,4 @@
-module github.com/KokoulinM/dog-walking-service
+module github.com/mkokoulin/dog-walking-service
 
 go 1.18
 
